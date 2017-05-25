@@ -1,0 +1,56 @@
+[
+  {
+    "remote": "github",
+    "repository": "boulzordev/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf-msm8937",
+    "revision": "bzr-8.0-8937"
+  },
+  {
+    "remote": "github",
+    "repository": "boulzordev/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf-msm8937",
+    "revision": "bzr-8.0-8937"
+  },
+  {
+    "remote": "github",
+    "repository": "boulzordev/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf-msm8937",
+    "revision": "bzr-8.0-8937"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "vendor_qcom_opensource_dataservices",
+    "target_path": "vendor/qcom/opensource/dataservices",
+    "revision": "android-8.0"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_device_qcom_caf-sepolicy",
+    "target_path": "device/qcom/sepolicy",
+    "revision": "android-8.0"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_vendor_nxp-nfc_opensource_frameworks",
+    "target_path": "vendor/nxp-nfc/opensource/frameworks",
+    "revision": "android-8.0"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_vendor_nxp-nfc_opensource_libnfc-nci",
+    "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
+    "revision": "android-8.0"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_vendor_nxp-nfc_opensource_Nfc",
+    "target_path": "vendor/nxp-nfc/opensource/Nfc",
+    "revision": "android-8.0"
+  },
+  {
+    "remote": "omnirom",
+    "repository": "android_system_qcom",
+    "target_path": "system/qcom",
+    "revision": "android-8.0"
+  }
+]
