@@ -132,7 +132,7 @@ PRODUCT_COPY_FILES += \
 
 # LineageActions
 PRODUCT_PACKAGES += \
-    LineageActions
+#    LineageActions
 
 # Display
 PRODUCT_PACKAGES += \
